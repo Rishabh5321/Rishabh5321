@@ -6,15 +6,15 @@ Welcome to my GitHub profile! I'm passionate about open-source development and e
 
 Here are some of the projects I've been working on:
 
-- **dotfiles**: Minimal NixOS configuration files to streamline development environments.
+- **[dotfiles](https://github.com/Rishabh5321/dotfiles)**: Minimal NixOS configuration files to streamline development environments.
 
-- **seanime-flake**: A Nix flake for packaging Seanime, a simple and user-friendly anime streaming web server application.
+- **[seanime-flake](https://github.com/Rishabh5321/seanime-flake)**: A Nix flake for packaging Seanime, a simple and user-friendly anime streaming web server application.
 
-- **Docker-Compose_Template**: A template to simplify the setup of Docker Compose environments.
+- **[Docker-Compose_Template](https://github.com/Rishabh5321/Docker-Compose_Template)**: A template to simplify the setup of Docker Compose environments.
 
-- **akuse-flake**: Nix flake for packaging Akuse, an ad-free anime streaming desktop application.
+- **[akuse-flake](https://github.com/Rishabh5321/akuse-flake)**: Nix flake for packaging Akuse, an ad-free anime streaming desktop application.
 
-- **grayjay-flake**: Flake for Grayjay, enhancing development workflows.
+- **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: Flake for Grayjay, enhancing development workflows.
 
 ## 🛠️ Technologies & Tools
 
@@ -25,7 +25,6 @@ Here are some of the projects I've been working on:
 ## 📈 GitHub Stats
 
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh5321&show_icons=true&theme=radical)
-
 
 ## 📫 Let's Connect
 
