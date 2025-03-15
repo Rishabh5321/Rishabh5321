@@ -26,11 +26,6 @@ Here are some of the projects I've been working on:
 
 ![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh5321&show_icons=true&theme=radical)
 
-## 🏆 Achievements
-
-- **YOLO**: Quickstart a new repo
-
-- **Quickdraw**: Closed an issue or pull request
 
 ## 📫 Let's Connect
 
