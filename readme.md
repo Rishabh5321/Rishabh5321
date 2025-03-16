@@ -1,6 +1,6 @@
 # Hello, I'm Rishabh! 👋
 
-Welcome to my GitHub profile! I'm passionate about open-source development and enjoy creating tools that make life easier for developers.
+Welcome to my GitHub profile! I'm passionate about open-source development and enjoy creating tools that make life easier for everyone.
 
 ## 🚀 Projects
 
