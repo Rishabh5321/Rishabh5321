@@ -1,20 +1,20 @@
 # Hello, I'm Rishabh! 👋
 
-Welcome to my GitHub profile! I'm passionate about open-source development and enjoy creating tools that make life easier for everyone.
+Welcome to my GitHub profile! I'm an enthusiastic open-source developer dedicated to crafting tools that simplify and enhance everyday tasks.
 
 ## 🚀 Projects
 
-Here are some of the projects I've been working on:
+Here are some of the exciting projects I've been working on:
 
-- **[dotfiles](https://github.com/Rishabh5321/dotfiles)**: Minimal NixOS configuration files to streamline development environments.
+- **[dotfiles](https://github.com/Rishabh5321/dotfiles)**: Streamlined NixOS configuration files designed to optimize development environments.
 
-- **[seanime-flake](https://github.com/Rishabh5321/seanime-flake)**: A Nix flake for packaging Seanime, a simple and user-friendly anime streaming web server application.
+- **[seanime-flake](https://github.com/Rishabh5321/seanime-flake)**: A Nix flake for packaging Seanime, a user-friendly anime streaming web server application.
 
-- **[Docker-Compose_Template](https://github.com/Rishabh5321/Docker-Compose_Template)**: A template to simplify the setup of Docker Compose environments.
+- **[Docker-Compose_Template](https://github.com/Rishabh5321/Docker-Compose_Template)**: A comprehensive template to facilitate the setup of Docker Compose environments.
 
 - **[akuse-flake](https://github.com/Rishabh5321/akuse-flake)**: Nix flake for packaging Akuse, an ad-free anime streaming desktop application.
 
-- **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: Flake for Grayjay, enhancing development workflows.
+- **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: A flake for Grayjay, a multiplatform video streaming app.
 
 ## 🛠️ Technologies & Tools
 
@@ -30,4 +30,4 @@ Here are some of the projects I've been working on:
 
 - **Discord**: [Rishabh5321](https://discord.gg/S3VzxZuQ)
 
-Feel free to reach out for collaborations or discussions!
+I'm always open to collaborations or discussions, so feel free to reach out!
