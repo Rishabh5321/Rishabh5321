@@ -24,7 +24,7 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh5321&show_icons=true&theme=radical)
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh5321&show_icons=true&theme=dark)
 
 ## 📫 Let's Connect
 
