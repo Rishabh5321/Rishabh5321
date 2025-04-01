@@ -26,9 +26,8 @@ Here are some of the exciting projects I've been working on:
 - **Tools**: NixOS, Docker Compose
 
 ## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishabh5321&theme=dark)](https://git.io/streak-stats)
-
+[![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321)](https://github.com/rishabh5321/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rishabh5321&theme=dark&card_width=400)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 
