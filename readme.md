@@ -27,7 +27,7 @@ Here are some of the exciting projects I've been working on:
 
 ## 📈 GitHub Stats
 [![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321)](https://github.com/rishabh5321/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rishabh5321&theme=dark&card_width=400)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rishabh5321&theme=dark&card_width=380)](https://git.io/streak-stats)
 
 ## 📫 Let's Connect
 
