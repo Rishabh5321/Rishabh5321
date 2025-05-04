@@ -18,9 +18,6 @@ Here are some of the exciting projects I've been working on:
 
 - **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: A flake for Grayjay, a multiplatform video streaming app.
 
-- **[better-control-flake](https://github.com/Rishabh5321/better-control-flake)**: A flake for Better-control
-, A GTK-themed control panel for Linux 🐧.
-
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Nix, Docker
