@@ -18,6 +18,9 @@ Here are some of the exciting projects I've been working on:
 
 - **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: A flake for Grayjay, a multiplatform video streaming app.
 
+- **[better-control-flake](https://github.com/Rishabh5321/better-control-flake)**: A flake for Better-control
+, A GTK-themed control panel for Linux 🐧.
+
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Nix, Docker
@@ -25,9 +28,8 @@ Here are some of the exciting projects I've been working on:
 - **Tools**: NixOS, Docker Compose
 
 ## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rishabh5321&theme=dark)](https://git.io/streak-stats)
-
+[![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321)](https://github.com/rishabh5321/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rishabh5321&theme=tokyonight&card_width=380)
 
 ## 📫 Let's Connect
 
