@@ -8,6 +8,8 @@ Here are some of the exciting projects I've been working on:
 
 - **[dotfiles](https://github.com/Rishabh5321/dotfiles)**: Streamlined NixOS configuration files designed to optimize development environments.
 
+- **[Better-Control-Flake](https://github.com/Rishabh5321//better-control-flake)**: This repository provides a Nix flake for Better-control, A GTK-themed control panel for Linux 🐧
+
 - **[seanime-flake](https://github.com/Rishabh5321/seanime-flake)**: A Nix flake for packaging Seanime, a user-friendly anime streaming web server application.
 
 - **[Docker-Compose_Template](https://github.com/Rishabh5321/Docker-Compose_Template)**: A comprehensive template to facilitate the setup of Docker Compose environments.
