@@ -30,7 +30,7 @@ Here are some of the exciting projects I've been working on:
 - **Tools**: NixOS, Docker Compose
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rishabh5321&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /><br>
+[![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/rishabh5321/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rishabh5321&theme=tokyonight&card_width=380)
 
 
