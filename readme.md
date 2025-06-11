@@ -38,6 +38,9 @@ Here are some of the exciting projects I've been working on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh5321&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
 </p>
 
+
+<img hight="180em" src="https://github.com/Rishabh5321/Rishabh5321/blob/output/ocean.svg">
+
 ## 📫 Let's Connect
 
 - **Discord**: [Rishabh5321](https://discord.gg/S3VzxZuQ)
