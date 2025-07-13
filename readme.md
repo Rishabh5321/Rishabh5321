@@ -13,7 +13,7 @@ Here are some of the exciting projects I've been working on:
 
 - **[dotfiles](https://github.com/Rishabh5321/dotfiles)**: Streamlined NixOS configuration files designed to optimize development environments.
 
-- **[wallsite](https://github.com/Rishabh5321/wallsite)**: A website for displaying deploying your own personalized wallpaper website easily.
+- **[wallsite](https://github.com/Rishabh5321/wallsite)**: This is a self-hostable wallpaper gallery project. Its primary goal is to be distributed as a user-friendly GitHub template, allowing others to easily create and deploy their own galleries. The project supports two main deployment methods: a simple Git-based deployment via Vercel/Netlify and an advanced self-hosted deployment via Docker.
 
 - **[Better-Control-Flake](https://github.com/Rishabh5321//better-control-flake)**: This repository provides a Nix flake for Better-control, A GTK-themed control panel for Linux 🐧
 
