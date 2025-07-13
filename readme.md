@@ -13,21 +13,23 @@ Here are some of the exciting projects I've been working on:
 
 - **[dotfiles](https://github.com/Rishabh5321/dotfiles)**: Streamlined NixOS configuration files designed to optimize development environments.
 
+- **[wallsite](https://github.com/Rishabh5321/wallsite)**: A website for displaying deploying your own personalized wallpaper website easily.
+
 - **[Better-Control-Flake](https://github.com/Rishabh5321//better-control-flake)**: This repository provides a Nix flake for Better-control, A GTK-themed control panel for Linux 🐧
 
-- **[seanime-flake](https://github.com/Rishabh5321/seanime-flake)**: A Nix flake for packaging Seanime, a user-friendly anime streaming web server application.
+- **[zed-editor-flake](https://github.com/Rishabh5321/zed-editor-flake)**: This repository provides a Nix flake for the Zed Editor, a high-performance code editor.
 
 - **[Docker-Compose_Template](https://github.com/Rishabh5321/Docker-Compose_Template)**: A comprehensive template to facilitate the setup of Docker Compose environments.
 
-- **[akuse-flake](https://github.com/Rishabh5321/akuse-flake)**: Nix flake for packaging Akuse, an ad-free anime streaming desktop application.
+- **[gemini-cli-flake](https://github.com/Rishabh5321/gemini-cli-flake)**: Just a flake packaging gemini-cli-nightly package
 
 - **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: A flake for Grayjay, a multiplatform video streaming app.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Nix, Docker
+- **Languages**: Nix, Docker, JavaScript, CSS, HTML, Python
 
-- **Tools**: NixOS, Docker Compose
+- **Tools**: NixOS, Docker, Docker Compose
 
 ## 📈 GitHub Stats
 [![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/rishabh5321/github-readme-stats)
