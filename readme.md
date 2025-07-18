@@ -44,11 +44,5 @@ Here are some of the exciting projects I've been working on:
 <img hight="180em" src="https://github.com/Rishabh5321/Rishabh5321/blob/output/ocean.svg">
 </div>
 
-## 📫 Let's Connect
-
-- **Discord**: [Rishabh5321](https://discord.gg/S3VzxZuQ)
-
-I'm always open to collaborations or discussions, so feel free to reach out!
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170§ion=footer" width="150%"/>
