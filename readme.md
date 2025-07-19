@@ -15,15 +15,7 @@ Here are some of the exciting projects I've been working on:
 
 - **[wallsite](https://github.com/Rishabh5321/wallsite)**: This is a self-hostable wallpaper gallery project. Its primary goal is to be distributed as a user-friendly GitHub template, allowing others to easily create and deploy their own galleries. The project supports two main deployment methods: a simple Git-based deployment via Vercel/Netlify and an advanced self-hosted deployment via Docker.
 
-- **[Better-Control-Flake](https://github.com/Rishabh5321//better-control-flake)**: This repository provides a Nix flake for Better-control, A GTK-themed control panel for Linux 🐧
-
-- **[zed-editor-flake](https://github.com/Rishabh5321/zed-editor-flake)**: This repository provides a Nix flake for the Zed Editor, a high-performance code editor.
-
 - **[Docker-Compose_Template](https://github.com/Rishabh5321/Docker-Compose_Template)**: A comprehensive template to facilitate the setup of Docker Compose environments.
-
-- **[gemini-cli-flake](https://github.com/Rishabh5321/gemini-cli-flake)**: Just a flake packaging gemini-cli-nightly package
-
-- **[grayjay-flake](https://github.com/Rishabh5321/grayjay-flake)**: A flake for Grayjay, a multiplatform video streaming app.
 
 ## 🛠️ Technologies & Tools
 
@@ -32,7 +24,7 @@ Here are some of the exciting projects I've been working on:
 - **Tools**: NixOS, Docker, Docker Compose
 
 ## 📈 GitHub Stats
-[![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321&theme=react&show_icons=true&hide_border=true&count_private=true)](https://github.com/rishabh5321/github-readme-stats)
+[![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/rishabh5321/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rishabh5321&theme=tokyonight&card_width=350)
 
 
