@@ -19,22 +19,8 @@ Here are some of the exciting projects I've been working on:
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Nix, Docker, JavaScript, CSS, HTML, Python
+- **Languages**: Nix, Docker, JavaScript, CSS, HTML, Python, Bash, PowerShell
 
 - **Tools**: NixOS, Docker, Docker Compose
-
-## 📈 GitHub Stats
-[![rishabh5321's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh5321&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/rishabh5321/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rishabh5321&theme=tokyonight&card_width=350)
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabh5321&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
-</p>
-
-<div align="center">
-<img hight="180em" src="https://github.com/Rishabh5321/Rishabh5321/blob/output/ocean.svg">
-</div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170§ion=footer" width="150%"/>
